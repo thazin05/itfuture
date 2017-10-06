@@ -1,0 +1,224 @@
+body{
+
+	background: #e9ebee !important;
+	font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.6em;
+    color: #656565;
+}
+.intro-header {
+	width: 100% !important;
+	height: 400px !important;
+}
+
+.intro-header .page-heading, .intro-header .post-heading, .intro-header .site-heading {
+    padding: 100px 0 !important;
+}
+
+.btn-lg {
+    font-size: 16px;
+    padding: 15px 25px !important;
+}
+span label {
+
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size:14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+span.edit-post
+{
+	font-size: 14px;
+	font-family: normal;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #555;
+}
+span.edit-post a
+{
+	font-size: 14px;
+	font-family: normal;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #555;
+}
+
+.post-btn
+{
+	font-size:13px;
+}
+
+/* ===================================
+7. Section: call action
+==================================== */
+section.callaction {
+	background:#f9f9f9;
+	padding:50px 0 0 0;
+}
+
+
+
+/* ===================================
+8. Section: Content
+==================================== */
+
+#content {
+	position:relative;
+	/*background:#fff;*/
+	/*padding:50px 0 40px 0;*/
+}
+.cta-text {
+	text-align: center;
+	margin-top:10px;
+}
+
+
+.big-cta .cta {
+	margin-top:10px;
+}
+.big-cta {
+	margin-bottom: 50px;
+}
+/* --- box --- */
+
+.box {
+	width: 100%;
+}
+.box-gray  {
+	background: #f8f8f8;
+	padding: 20px 20px 30px;
+}
+.box-gray  h4,.box-gray  i {
+	margin-bottom: 20px;
+}
+.box-bottom {
+	padding: 20px 0;
+	text-align: center;
+}
+.box-bottom a {
+	color: #fff;
+	font-weight: 700;
+}
+.box-bottom a:hover {
+	color: #eee;
+	text-decoration: none;
+}
+
+
+
+/* ===============================
+ Live preview purpose
+================================ */
+/* --- buttons --- */
+
+.bs-docs-example {
+	margin:0 0 10px 0;
+}
+
+.demobtn a.btn {
+	margin:0 10px 10px 0;
+}
+
+section.demogrid .col-lg-1,section.demogrid .col-lg-2,section.demogrid .col-lg-3,section.demogrid .col-lg-4,section.demogrid .col-lg-5,section.demogrid .col-lg-6,section.demogrid .col-lg-7,section.demogrid .col-lg-8,section.demogrid .col-lg-9,section.demogrid .col-lg-10,section.demogrid .col-lg-11 {
+	background:#f6f6f6;
+	text-align:center;
+	padding:20px 0 20px;
+}
+
+section.demogrid .show-grid .row,section.demogrid .show-grid .row-fluid {
+	margin-bottom:0;
+}
+
+section.demogrid .show-grid .nest {
+	background:#ddd;
+	text-align:center;
+	padding:20px 0 20px;
+}
+
+section.demogrid .col-lg-12.nest {
+	background:#f6f6f6;
+	text-align:center;
+	padding:20px 0 0;
+}
+
+.demoinline p {
+	display:inline;
+	margin-right:20px;
+}
+
+
+/* ===============================
+17. Divider, Line & Misc
+================================ */
+
+.solidline {
+	border-top:1px solid #f5f5f5;
+	margin:0 0 30px;
+}
+
+.dottedline {
+	border-top:1px dotted #f5f5f5;
+	margin:0 0 30px;
+}
+
+.dashedline {
+	border-top:1px dashed #f5f5f5;
+	margin:0 0 30px;
+}
+
+.blankline {
+	height:1px;
+	margin:0 0 30px;
+}
+
+/* =============================
+18. Position & alignment
+============================= */
+
+.absolute{
+	position:absolute;
+}
+
+.relative{
+	position:relative;
+}
+
+.aligncenter{
+	text-align:center;
+}
+
+.aligncenter span{
+	margin-left:0;
+}
+
+.floatright {
+	float:right;
+}
+
+.floatleft {
+	float:left;
+}
+
+.floatnone {
+	float:none;
+}
+
+.aligncenter {
+	text-align:center;
+}
+ /*form button*/
+ .btn {
+
+    font-size: 14px;
+    border-radius: 0;
+    padding:5px 15px;
+    font-size:13px;
+ }
+
+ /* custom col */
+ 
+
+	
+
